@@ -6,6 +6,3 @@ services:
 - name: valkey
   title: Valkey
   service: valkey
-  volumes:
-  - name: data
-    size: 5
