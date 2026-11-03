@@ -1,6 +1,7 @@
 name: valkey
 title: Valkey
 icon: valkey
+docs: https://wodby.com/docs/2.0/stacks/catalog/valkey/
 
 services:
 - name: valkey
